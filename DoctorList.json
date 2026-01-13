@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Michael Anderson, M.D.",
+    "department": "Cardiology Department",
+    "specialty": "Cardiology",
+    "area_of_focus": "Coronary artery disease, Heart failure, Hypertension, Cardiac catheterization, Echocardiography, Stress testing, Arrhythmia management, Preventive cardiology, Lipid disorders, Angina, Valvular heart disease, Post-heart attack care, Cardiac risk assessment, Lifestyle modification"
+  },
+  {
+    "name": "Sarah Patel, M.D.",
+    "department": "Pediatrics Department",
+    "specialty": "Pediatrics",
+    "area_of_focus": "Newborn care, Childhood immunizations, Growth and development monitoring, Pediatric infections, Asthma management, Nutritional counseling, Behavioral disorders, Preventive pediatrics, Adolescent health, Developmental delays, Childhood allergies"
+  },
+  {
+    "name": "James Liu, M.D.",
+    "department": "Orthopedic Surgery Department",
+    "specialty": "Orthopedic Surgery",
+    "area_of_focus": "Joint replacement surgery, Arthroscopy, Sports injuries, Fracture management, Knee disorders, Shoulder disorders, Hip disorders, Ligament reconstruction, Minimally invasive orthopedic surgery, Arthritis management, Trauma care"
+  },
+  {
+    "name": "Emily Rodriguez, M.D.",
+    "department": "Dermatology Department",
+    "specialty": "Dermatology",
+    "area_of_focus": "Acne treatment, Psoriasis, Eczema, Skin cancer screening, Mole evaluation, Cosmetic dermatology, Laser skin therapy, Hair loss treatment, Nail disorders, Skin infections, Anti-aging treatments"
+  },
+  {
+    "name": "Robert Williams, M.D.",
+    "department": "Neurology Department",
+    "specialty": "Neurology",
+    "area_of_focus": "Stroke management, Epilepsy, Parkinson’s disease, Multiple sclerosis, Headache disorders, Neuropathy, Dementia, Movement disorders, EEG interpretation, Neuroimaging review"
+  },
+  {
+    "name": "Aisha Khan, M.D.",
+    "department": "Obstetrics & Gynecology Department",
+    "specialty": "Obstetrics & Gynecology",
+    "area_of_focus": "Prenatal care, High-risk pregnancy, Normal and assisted childbirth, Gynecologic surgery, Menstrual disorders, Family planning, Infertility evaluation, Menopause management, Women’s preventive care"
+  },
+  {
+    "name": "Daniel Moore, M.D.",
+    "department": "General Surgery Department",
+    "specialty": "General Surgery",
+    "area_of_focus": "Laparoscopic surgery, Hernia repair, Gallbladder surgery, Appendectomy, Gastrointestinal surgery, Minor surgical procedures, Wound care, Surgical consultations, Postoperative management"
+  },
+  {
+    "name": "Olivia Chen, M.D.",
+    "department": "Endocrinology Department",
+    "specialty": "Endocrinology",
+    "area_of_focus": "Diabetes management, Thyroid disorders, Hormonal imbalances, Osteoporosis, Metabolic syndrome, Insulin therapy, Pituitary disorders, Adrenal disorders, Obesity management, Endocrine testing"
+  },
+  {
+    "name": "Thomas Brown, M.D.",
+    "department": "Pulmonology Department",
+    "specialty": "Pulmonology",
+    "area_of_focus": "Asthma, COPD, Pulmonary function testing, Sleep apnea, Lung infections, Chronic cough, Interstitial lung disease, Smoking cessation, Respiratory failure management"
+  },
+  {
+    "name": "Fatima Hassan, M.D.",
+    "department": "Mental Health Department",
+    "specialty": "Psychiatry",
+    "area_of_focus": "Depression, Anxiety disorders, Bipolar disorder, Schizophrenia, Stress management, Psychotherapy, Medication management, Sleep disorders, PTSD, Mental health counseling"
+  },
+  {
+    "name": "Kevin Johnson, M.D.",
+    "department": "Family Medicine Department",
+    "specialty": "Family Medicine",
+    "area_of_focus": "Preventive medicine, Chronic disease management, Hypertension, Diabetes follow-up, Annual health exams, Vaccinations, Minor procedures, Lifestyle counseling, Acute illness treatment"
+  },
+  {
+    "name": "Sophia Martinez, M.D.",
+    "department": "Gastroenterology Department",
+    "specialty": "Gastroenterology",
+    "area_of_focus": "Acid reflux, Irritable bowel syndrome, Inflammatory bowel disease, Endoscopy, Colonoscopy, Liver disorders, Peptic ulcer disease, GI bleeding, Digestive health screening"
+  },
+  {
+    "name": "Benjamin Clark, M.D.",
+    "department": "Urology Department",
+    "specialty": "Urology",
+    "area_of_focus": "Kidney stones, Prostate disorders, Urinary tract infections, Male infertility, Erectile dysfunction, Bladder conditions, Urologic surgery, Urinary incontinence, Minimally invasive urology"
+  },
+  {
+    "name": "Noor Al-Sayed, M.D.",
+    "department": "Rheumatology Department",
+    "specialty": "Rheumatology",
+    "area_of_focus": "Rheumatoid arthritis, Lupus, Osteoarthritis, Gout, Autoimmune diseases, Joint pain management, Biologic therapy, Inflammatory disorders, Long-term disease monitoring"
+  },
+  {
+    "name": "Jonathan Reed, M.D.",
+    "department": "Oncology Department",
+    "specialty": "Medical Oncology",
+    "area_of_focus": "Cancer diagnosis, Chemotherapy, Immunotherapy, Targeted therapy, Cancer staging, Treatment planning, Symptom management, Multidisciplinary oncology care"
+  },
+  {
+    "name": "Hannah Wilson, M.D.",
+    "department": "Anesthesiology Department",
+    "specialty": "Anesthesiology",
+    "area_of_focus": "General anesthesia, Regional anesthesia, Pain management, Sedation services, Perioperative care, Patient monitoring, Postoperative pain control, Critical care anesthesia"
+  },
+  {
+    "name": "Ahmed Saleh, M.D.",
+    "department": "Nephrology Department",
+    "specialty": "Nephrology",
+    "area_of_focus": "Chronic kidney disease, Dialysis management, Hypertension, Electrolyte disorders, Kidney failure prevention, Diabetic nephropathy, Renal imaging interpretation"
+  },
+  {
+    "name": "Laura Kim, M.D.",
+    "department": "Ophthalmology Department",
+    "specialty": "Ophthalmology",
+    "area_of_focus": "Cataract surgery, Glaucoma management, Diabetic eye disease, Vision correction, Eye infections, Dry eye syndrome, Comprehensive eye exams, Retinal screening"
+  },
+  {
+    "name": "Peter Novak, M.D.",
+    "department": "ENT Department",
+    "specialty": "Otolaryngology (ENT)",
+    "area_of_focus": "Sinusitis, Hearing loss, Vertigo, Tonsil disorders, Voice problems, Nasal obstruction, Allergy management, Endoscopic sinus surgery, ENT infections"
+  },
+  {
+    "name": "Maria Gomez, M.D.",
+    "department": "Infectious Disease Department",
+    "specialty": "Infectious Disease",
+    "area_of_focus": "Complex infections, Fever of unknown origin, HIV management, Tuberculosis, Antibiotic therapy, Infection prevention, Travel-related infections, Immunocompromised patients"
+  },
+
+  {
+    "name": "Richard Evans, M.D.",
+    "department": "Internal Medicine Department",
+    "specialty": "Internal Medicine",
+    "area_of_focus": "Complex medical conditions, Chronic disease coordination, Hypertension, Diabetes, Cardiometabolic disorders, Preventive screening, Diagnostic evaluation"
+  },
+  {
+    "name": "Lina Mohammed, M.D.",
+    "department": "Diabetes & Endocrinology Department",
+    "specialty": "Diabetology",
+    "area_of_focus": "Type 1 diabetes, Type 2 diabetes, Gestational diabetes, Insulin therapy, Continuous glucose monitoring, Diabetic complications, Lifestyle counseling"
+  },
+  {
+    "name": "Steven Hall, M.D.",
+    "department": "Emergency Medicine Department",
+    "specialty": "Emergency Medicine",
+    "area_of_focus": "Emergency trauma care, Acute illness stabilization, Cardiac emergencies, Respiratory distress, Stroke response, Emergency procedures, Critical decision-making"
+  },
+  {
+    "name": "Priya Nair, M.D.",
+    "department": "Hematology Department",
+    "specialty": "Hematology",
+    "area_of_focus": "Anemia, Blood cancers, Clotting disorders, Bone marrow disorders, Transfusion medicine, Hematologic diagnostics, Long-term monitoring"
+  },
+  {
+    "name": "Carlos Mendes, M.D.",
+    "department": "Vascular Surgery Department",
+    "specialty": "Vascular Surgery",
+    "area_of_focus": "Peripheral artery disease, Varicose veins, Aneurysm repair, Vascular imaging, Endovascular surgery, Blood circulation disorders"
+  },
+  {
+    "name": "Rebecca Allen, M.D.",
+    "department": "Radiology Department",
+    "specialty": "Radiology",
+    "area_of_focus": "X-ray interpretation, CT scans, MRI imaging, Ultrasound diagnostics, Mammography, Image-guided procedures, Diagnostic accuracy"
+  },
+  {
+    "name": "Yusuf Rahman, M.D.",
+    "department": "Interventional Cardiology Department",
+    "specialty": "Interventional Cardiology",
+    "area_of_focus": "Coronary angiography, Angioplasty, Stent placement, Acute coronary syndrome, Heart attack management, Cardiac catheterization"
+  },
+  {
+    "name": "Natalie Brooks, M.D.",
+    "department": "Plastic Surgery Department",
+    "specialty": "Plastic & Reconstructive Surgery",
+    "area_of_focus": "Reconstructive surgery, Cosmetic surgery, Scar revision, Breast reconstruction, Facial aesthetics, Trauma reconstruction, Post-surgical care"
+  },
+  {
+    "name": "Omar Khalid, M.D.",
+    "department": "Pain Management Department",
+    "specialty": "Pain Management",
+    "area_of_focus": "Chronic pain management, Back pain, Neck pain, Nerve blocks, Joint injections, Pain rehabilitation, Multimodal pain therapy"
+  },
+  {
+    "name": "Helen Foster, M.D.",
+    "department": "Geriatric Medicine Department",
+    "specialty": "Geriatric Medicine",
+    "area_of_focus": "Elderly care, Memory disorders, Falls prevention, Mobility issues, Polypharmacy management, Chronic illness in aging, Geriatric assessment"
+  },
+  {
+    "name": "Mark O’Connor, M.D.",
+    "department": "Sports Medicine Department",
+    "specialty": "Sports Medicine",
+    "area_of_focus": "Sports injuries, Muscle strains, Ligament injuries, Injury prevention, Physical rehabilitation, Performance optimization"
+  },
+  {
+    "name": "Ananya Gupta, M.D.",
+    "department": "Fertility & Reproductive Medicine Department",
+    "specialty": "Reproductive Medicine",
+    "area_of_focus": "Infertility evaluation, IVF, Hormonal therapy, Ovulation disorders, Reproductive endocrinology, Fertility counseling"
+  },
+  {
+    "name": "Samuel Wright, M.D.",
+    "department": "Pathology Department",
+    "specialty": "Pathology",
+    "area_of_focus": "Laboratory diagnostics, Disease detection, Tissue analysis, Blood testing, Pathology reporting, Clinical correlation"
+  },
+  {
+    "name": "Irene Volkov, M.D.",
+    "department": "Nuclear Medicine Department",
+    "specialty": "Nuclear Medicine",
+    "area_of_focus": "Nuclear imaging, PET scans, Thyroid imaging, Cancer imaging, Functional imaging, Radionuclide therapy"
+  },
+  {
+    "name": "Hassan Ali, M.D.",
+    "department": "Thoracic Surgery Department",
+    "specialty": "Thoracic Surgery",
+    "area_of_focus": "Lung surgery, Chest tumors, Minimally invasive thoracic surgery, Pleural disease, Trauma surgery, Postoperative care"
+  },
+  {
+    "name": "Chloe Bennett, Ph.D.",
+    "department": "Clinical Psychology Department",
+    "specialty": "Clinical Psychology",
+    "area_of_focus": "Anxiety disorders, Depression therapy, Stress management, Cognitive behavioral therapy, Trauma counseling, Psychological assessments"
+  },
+  {
+    "name": "Victor Ramos, M.D.",
+    "department": "Hepatology Department",
+    "specialty": "Hepatology",
+    "area_of_focus": "Hepatitis, Fatty liver disease, Cirrhosis management, Liver function disorders, Liver screening, Chronic liver care"
+  },
+  {
+    "name": "Mei Lin Tan, M.D.",
+    "department": "Neonatology Department",
+    "specialty": "Neonatology",
+    "area_of_focus": "Premature infant care, Neonatal intensive care, Respiratory support, Newborn infections, Growth monitoring, Parental guidance"
+  },
+  {
+    "name": "George Mitchell, M.D.",
+    "department": "Colorectal Surgery Department",
+    "specialty": "Colorectal Surgery",
+    "area_of_focus": "Colorectal cancer, Hemorrhoids, Inflammatory bowel disease, Colon surgery, Rectal disorders, Minimally invasive procedures"
+  },
+  {
+    "name": "Salma Farouk, M.D.",
+    "department": "Allergy & Immunology Department",
+    "specialty": "Allergy & Immunology",
+    "area_of_focus": "Allergic rhinitis, Asthma, Food allergies, Immune deficiencies, Skin allergies, Allergy testing, Immunotherapy"
+  },
+  {
+    "name": "Andrew Collins, M.D.",
+    "department": "Sleep Medicine Department",
+    "specialty": "Sleep Medicine",
+    "area_of_focus": "Sleep apnea, Insomnia, Sleep studies, Circadian rhythm disorders, Snoring treatment, Fatigue management"
+  },
+  {
+    "name": "Elena Petrova, M.D.",
+    "department": "Rehabilitation Medicine Department",
+    "specialty": "Physical & Rehabilitation Medicine",
+    "area_of_focus": "Post-stroke rehabilitation, Physical medicine, Chronic pain rehabilitation, Mobility restoration, Disability management"
+  },
+  {
+    "name": "Daniel Park, M.D.",
+    "department": "Hand & Microsurgery Department",
+    "specialty": "Hand & Microsurgery",
+    "area_of_focus": "Hand injuries, Microsurgery, Nerve repair, Tendon repair, Reconstructive hand surgery, Trauma care"
+  },
+  {
+    "name": "Rania Youssef, M.D.",
+    "department": "Preventive Medicine Department",
+    "specialty": "Preventive Medicine",
+    "area_of_focus": "Preventive health screenings, Lifestyle medicine, Disease prevention, Wellness counseling, Risk factor modification"
+  },
+  {
+    "name": "Paul Schneider, M.D.",
+    "department": "Critical Care Department",
+    "specialty": "Critical Care Medicine",
+    "area_of_focus": "Critical care medicine, Ventilator management, Sepsis treatment, ICU monitoring, Multiorgan failure support"
+  },
+  {
+    "name": "Monique Laurent, M.D.",
+    "department": "Aesthetic Medicine Department",
+    "specialty": "Aesthetic Medicine",
+    "area_of_focus": "Botox injections, Dermal fillers, Skin rejuvenation, Non-surgical facial treatments, Aesthetic consultations"
+  },
+  {
+    "name": "Ibrahim Nordin, M.D.",
+    "department": "Travel Medicine Department",
+    "specialty": "Travel Medicine",
+    "area_of_focus": "Travel vaccinations, Tropical diseases, Travel health counseling, Infection prevention, Post-travel illness care"
+  },
+  {
+    "name": "Jessica Moore, M.D.",
+    "department": "Breast Surgery Department",
+    "specialty": "Breast Surgery",
+    "area_of_focus": "Breast cancer surgery, Breast lump evaluation, Reconstructive options, Breast imaging correlation, Postoperative care"
+  },
+  {
+    "name": "Anton Kuznetsov, M.D.",
+    "department": "Spine Surgery Department",
+    "specialty": "Spine Surgery",
+    "area_of_focus": "Spine disorders, Disc herniation, Spinal stenosis, Minimally invasive spine surgery, Back pain management"
+  },
+  {
+    "name": "Farah Siddiqui, M.D.",
+    "department": "Palliative Care Department",
+    "specialty": "Palliative Care",
+    "area_of_focus": "Palliative care, Pain control, Symptom relief, End-of-life care, Family support, Quality-of-life management"
+  }
+]
+
+
+
+[
+  {"name":"Dr. Stella J. Chris, M.D.","title":"M.D.","department":"Ophthalmology","specialty":"Ophthalmology","area_of_focus":"Cataract surgery, Ultrasound, Retinal surgery, Laser therapy, Macular degeneration, Diabetic retinopathy, Vitrectomy, Eye injection, Retinal detachment, Eye floaters"},
+  {"name":"Dr. John K. Smith, M.D.","title":"M.D.","department":"Cardiology","specialty":"Cardiology","area_of_focus":"Coronary artery disease, Heart failure, Arrhythmia, Echocardiogram, Stress test, Angioplasty, Pacemaker, Hypertension, Lipid management"},
+  {"name":"Dr. Maria L. Gonzalez, M.D.","title":"M.D.","department":"Neurology","specialty":"Neurology","area_of_focus":"Stroke management, Epilepsy, Multiple sclerosis, Parkinson's disease, Headache disorders, EEG, EMG, Cognitive disorders"},
+  {"name":"Dr. Ahmed R. Khan, M.D.","title":"M.D.","department":"Endocrinology","specialty":"Endocrinology","area_of_focus":"Diabetes, Thyroid disorders, Hormonal imbalance, Osteoporosis, Adrenal disorders, Pituitary disorders, Metabolic syndrome, Insulin therapy"},
+  {"name":"Dr. Li Wei, M.D.","title":"M.D.","department":"Gastroenterology","specialty":"Gastroenterology","area_of_focus":"Colonoscopy, Endoscopy, Liver disease, Inflammatory bowel disease, Gastroesophageal reflux, Pancreatitis, Polyp removal, GI bleeding"},
+  {"name":"Dr. Sarah T. Brown, M.D.","title":"M.D.","department":"Dermatology","specialty":"Dermatology","area_of_focus":"Acne, Eczema, Psoriasis, Skin cancer screening, Mole removal, Skin biopsy, Laser therapy, Cosmetic dermatology, Hair disorders"},
+  {"name":"Dr. Michael J. Thompson, M.D.","title":"M.D.","department":"Orthopedic Surgery","specialty":"Orthopedic Surgery","area_of_focus":"Joint replacement, Fracture management, Arthroscopy, Sports injuries, Spine surgery, Bone tumor management, Hand surgery, Trauma surgery"},
+  {"name":"Dr. Emma R. Davis, M.D.","title":"M.D.","department":"Pediatrics","specialty":"Pediatrics","area_of_focus":"Well child visits, Vaccinations, Growth and development, Pediatric asthma, Infectious diseases in children, Pediatric nutrition, Neonatal care"},
+  {"name":"Dr. Robert K. Patel, M.D.","title":"M.D.","department":"Psychiatry","specialty":"Psychiatry","area_of_focus":"Depression, Anxiety, Bipolar disorder, Schizophrenia, Psychotherapy, Medication management, Child psychiatry, Geriatric psychiatry"},
+  {"name":"Dr. Ana M. Silva, M.D.","title":"M.D.","department":"Internal Medicine","specialty":"Internal Medicine","area_of_focus":"Hypertension, Diabetes, Hyperlipidemia, Preventive care, Chronic disease management, Infectious disease evaluation, General wellness exams"},
+  {"name":"Dr. Thomas L. White, M.D.","title":"M.D.","department":"Cardiology","specialty":"Cardiology","area_of_focus":"Heart failure, Coronary artery disease, Arrhythmia, Echocardiogram, Stress test, Pacemaker, Lipid management, Hypertension"},
+  {"name":"Dr. Julia M. Ramirez, M.D.","title":"M.D.","department":"Neurology","specialty":"Neurology","area_of_focus":"Epilepsy, Stroke management, Migraine, Multiple sclerosis, Parkinson's disease, EEG, Cognitive disorders, Neuromuscular disease"},
+  {"name":"Dr. David P. Lee, M.D.","title":"M.D.","department":"Endocrinology","specialty":"Endocrinology","area_of_focus":"Diabetes management, Thyroid disorders, Hormone therapy, Osteoporosis, Metabolic syndrome, Insulin therapy, Pituitary disorders"},
+  {"name":"Dr. Linda K. Johnson, M.D.","title":"M.D.","department":"Gastroenterology","specialty":"Gastroenterology","area_of_focus":"Colonoscopy, Endoscopy, Liver disease, Crohn's disease, Ulcerative colitis, GI bleeding, Polyp removal"},
+  {"name":"Dr. Kevin R. Wilson, M.D.","title":"M.D.","department":"Dermatology","specialty":"Dermatology","area_of_focus":"Psoriasis, Acne, Eczema, Skin biopsy, Mole removal, Laser therapy, Cosmetic dermatology"},
+  {"name":"Dr. Natalie H. Murphy, M.D.","title":"M.D.","department":"Orthopedic Surgery","specialty":"Orthopedic Surgery","area_of_focus":"Fracture management, Joint replacement, Spine surgery, Sports injuries, Hand surgery, Arthroscopy"},
+  {"name":"Dr. Brian T. Anderson, M.D.","title":"M.D.","department":"Pediatrics","specialty":"Pediatrics","area_of_focus":"Vaccinations, Growth and development, Pediatric asthma, Neonatal care, Infectious disease, Pediatric nutrition"},
+  {"name":"Dr. Sophia L. Martin, M.D.","title":"M.D.","department":"Psychiatry","specialty":"Psychiatry","area_of_focus":"Anxiety, Depression, Bipolar disorder, Psychotherapy, Medication management, Child psychiatry, Geriatric psychiatry"},
+  {"name":"Dr. Charles W. Robinson, M.D.","title":"M.D.","department":"Internal Medicine","specialty":"Internal Medicine","area_of_focus":"Diabetes, Hypertension, Preventive care, Chronic disease management, Hyperlipidemia, General wellness"},
+  {"name":"Dr. Olivia J. Clark, M.D.","title":"M.D.","department":"Cardiology","specialty":"Cardiology","area_of_focus":"Coronary artery disease, Heart failure, Arrhythmia, Angioplasty, Echocardiogram, Pacemaker"},
+  {"name":"Dr. Daniel F. Lewis, M.D.","title":"M.D.","department":"Neurology","specialty":"Neurology","area_of_focus":"Stroke management, Epilepsy, Migraine, Multiple sclerosis, Parkinson's disease, EEG"},
+  {"name":"Dr. Emily R. Walker, M.D.","title":"M.D.","department":"Endocrinology","specialty":"Endocrinology","area_of_focus":"Diabetes, Thyroid disorders, Hormonal imbalance, Osteoporosis, Adrenal disorders, Insulin therapy"},
+  {"name":"Dr. Christopher B. Hall, M.D.","title":"M.D.","department":"Gastroenterology","specialty":"Gastroenterology","area_of_focus":"Colonoscopy, Endoscopy, Liver disease, GI bleeding, Polyp removal, Pancreatitis"},
+  {"name":"Dr. Isabella T. Allen, M.D.","title":"M.D.","department":"Dermatology","specialty":"Dermatology","area_of_focus":"Acne, Psoriasis, Eczema, Mole removal, Laser therapy, Cosmetic dermatology"},
+  {"name":"Dr. Matthew S. Young, M.D.","title":"M.D.","department":"Orthopedic Surgery","specialty":"Orthopedic Surgery","area_of_focus":"Joint replacement, Fracture management, Sports injuries, Arthroscopy, Spine surgery"},
+  {"name":"Dr. Abigail K. Hernandez, M.D.","title":"M.D.","department":"Pediatrics","specialty":"Pediatrics","area_of_focus":"Well child visits, Vaccinations, Pediatric asthma, Growth and development, Neonatal care"},
+  {"name":"Dr. Joshua L. King, M.D.","title":"M.D.","department":"Psychiatry","specialty":"Psychiatry","area_of_focus":"Depression, Anxiety, Bipolar disorder, Schizophrenia, Psychotherapy"},
+  {"name":"Dr. Grace M. Wright, M.D.","title":"M.D.","department":"Internal Medicine","specialty":"Internal Medicine","area_of_focus":"Hypertension, Diabetes, Preventive care, Chronic disease management, Hyperlipidemia"},
+  {"name":"Dr. Ryan J. Scott, M.D.","title":"M.D.","department":"Cardiology","specialty":"Cardiology","area_of_focus":"Heart failure, Coronary artery disease, Arrhythmia, Echocardiogram"},
+  {"name":"Dr. Victoria R. Green, M.D.","title":"M.D.","department":"Neurology","specialty":"Neurology","area_of_focus":"Stroke management, Epilepsy, Parkinson's disease, Headache disorders"},
+  {"name":"Dr. Anthony M. Adams, M.D.","title":"M.D.","department":"Endocrinology","specialty":"Endocrinology","area_of_focus":"Diabetes, Thyroid disorders, Osteoporosis, Metabolic syndrome"},
+  {"name":"Dr. Hannah S. Baker, M.D.","title":"M.D.","department":"Gastroenterology","specialty":"Gastroenterology","area_of_focus":"Endoscopy, Colonoscopy, Liver disease, Inflammatory bowel disease"},
+  {"name":"Dr. Jonathan T. Nelson, M.D.","title":"M.D.","department":"Dermatology","specialty":"Dermatology","area_of_focus":"Psoriasis, Acne, Eczema, Laser therapy"},
+  {"name":"Dr. Chloe L. Carter, M.D.","title":"M.D.","department":"Orthopedic Surgery","specialty":"Orthopedic Surgery","area_of_focus":"Spine surgery, Joint replacement, Fracture management, Sports injuries"},
+  {"name":"Dr. Samuel P. Mitchell, M.D.","title":"M.D.","department":"Pediatrics","specialty":"Pediatrics","area_of_focus":"Vaccinations, Pediatric asthma, Neonatal care, Growth and development"},
+  {"name":"Dr. Lauren A. Perez, M.D.","title":"M.D.","department":"Psychiatry","specialty":"Psychiatry","area_of_focus":"Anxiety, Depression, Bipolar disorder, Psychotherapy"},
+  {"name":"Dr. Benjamin K. Roberts, M.D.","title":"M.D.","department":"Internal Medicine","specialty":"Internal Medicine","area_of_focus":"Diabetes, Hypertension, Preventive care, Chronic disease management"},
+  {"name":"Dr. Megan J. Turner, M.D.","title":"M.D.","department":"Cardiology","specialty":"Cardiology","area_of_focus":"Coronary artery disease, Heart failure, Arrhythmia, Lipid management"},
+  {"name":"Dr. Patrick L. Phillips, M.D.","title":"M.D.","department":"Neurology","specialty":"Neurology","area_of_focus":"Stroke management, Epilepsy, Migraine, Multiple sclerosis"},
+  {"name":"Dr. Natalie K. Campbell, M.D.","title":"M.D.","department":"Endocrinology","specialty":"Endocrinology","area_of_focus":"Diabetes, Hormonal imbalance, Osteoporosis, Metabolic syndrome"},
+  {"name":"Dr. Alexander T. Parker, M.D.","title":"M.D.","department":"Gastroenterology","specialty":"Gastroenterology","area_of_focus":"Endoscopy, Colonoscopy, Liver disease, Polyp removal"},
+  {"name":"Dr. Victoria S. Evans, M.D.","title":"M.D.","department":"Dermatology","specialty":"Dermatology","area_of_focus":"Acne, Psoriasis, Eczema, Skin biopsy"},
+  {"name":"Dr. Nathan R. Edwards, M.D.","title":"M.D.","department":"Orthopedic Surgery","specialty":"Orthopedic Surgery","area_of_focus":"Fracture management, Joint replacement, Arthroscopy"},
+  {"name":"Dr. Abigail L. Collins, M.D.","title":"M.D.","department":"Pediatrics","specialty":"Pediatrics","area_of_focus":"Well child visits, Vaccinations, Pediatric asthma"},
+  {"name":"Dr. Jacob S. Stewart, M.D.","title":"M.D.","department":"Psychiatry","specialty":"Psychiatry","area_of_focus":"Depression, Anxiety, Psychotherapy, Medication management"},
+  {"name":"Dr. Emily R. Morris, M.D.","title":"M.D.","department":"Internal Medicine","specialty":"Internal Medicine","area_of_focus":"Hypertension, Diabetes, Preventive care"},
+  {"name":"Dr. Christopher J. Rogers, M.D.","title":"M.D.","department":"Cardiology","specialty":"Cardiology","area_of_focus":"Heart failure, Arrhythmia, Coronary artery disease"},
+  {"name":"Dr. Sophia K. Reed, M.D.","title":"M.D.","department":"Neurology","specialty":"Neurology","area_of_focus":"Epilepsy, Stroke, Parkinson's disease"},
+  {"name":"Dr. Anthony R. Cook, M.D.","title":"M.D.","department":"Endocrinology","specialty":"Endocrinology","area_of_focus":"Diabetes, Thyroid disorders, Hormonal imbalance"},
+  {"name":"Dr. Olivia P. Morgan, M.D.","title":"M.D.","department":"Gastroenterology","specialty":"Gastroenterology","area_of_focus":"Endoscopy, Colonoscopy, Liver disease"},
+  {"name":"Dr. Matthew T. Bell, M.D.","title":"M.D.","department":"Dermatology","specialty":"Dermatology","area_of_focus":"Acne, Psoriasis, Mole removal"},
+  {"name":"Dr. Grace J. Murphy, M.D.","title":"M.D.","department":"Orthopedic Surgery","specialty":"Orthopedic Surgery","area_of_focus":"Joint replacement, Sports injuries, Arthroscopy"},
+  {"name":"Dr. Daniel K. Bailey, M.D.","title":"M.D.","department":"Pediatrics","specialty":"Pediatrics","area_of_focus":"Vaccinations, Pediatric asthma, Neonatal care"},
+  {"name":"Dr. Hannah L. Rivera, M.D.","title":"M.D.","department":"Psychiatry","specialty":"Psychiatry","area_of_focus":"Anxiety, Depression, Bipolar disorder"},
+  {"name":"Dr. Ryan M. Cooper, M.D.","title":"M.D.","department":"Internal Medicine","specialty":"Internal Medicine","area_of_focus":"Diabetes, Hypertension, Chronic disease management"},
+  {"name":"Dr. Victoria T. Richardson, M.D.","title":"M.D.","department":"Cardiology","specialty":"Cardiology","area_of_focus":"Coronary artery disease, Heart failure, Arrhythmia"},
+  {"name":"Dr. Alexander J. Cox, M.D.","title":"M.D.","department":"Neurology","specialty":"Neurology","area_of_focus":"Stroke management, Epilepsy, Multiple sclerosis"},
+  {"name":"Dr. Abigail R. Howard, M.D.","title":"M.D.","department":"Endocrinology","specialty":"Endocrinology","area_of_focus":"Diabetes, Osteoporosis, Metabolic syndrome"},
+  {"name":"Dr. Nathan K. Ward, M.D.","title":"M.D.","department":"Gastroenterology","specialty":"Gastroenterology","area_of_focus":"Colonoscopy, Endoscopy, Liver disease"},
+  {"name":"Dr. Chloe S. Torres, M.D.","title":"M.D.","department":"Dermatology","specialty":"Dermatology","area_of_focus":"Psoriasis, Acne, Eczema"},
+  {"name":"Dr. Samuel J. Peterson, M.D.","title":"M.D.","department":"Orthopedic Surgery","specialty":"Orthopedic Surgery","area_of_focus":"Spine surgery, Fracture management, Joint replacement"},
+  {"name":"Dr. Emily K. Gray, M.D.","title":"M.D.","department":"Pediatrics","specialty":"Pediatrics","area_of_focus":"Well child visits, Vaccinations, Pediatric asthma"},
+  {"name":"Dr. Joshua R. James, M.D.","title":"M.D.","department":"Psychiatry","specialty":"Psychiatry","area_of_focus":"Depression, Anxiety, Psychotherapy"},
+  {"name":"Dr. Lauren M. Hughes, M.D.","title":"M.D.","department":"Internal Medicine","specialty":"Internal Medicine","area_of_focus":"Hypertension, Diabetes, Preventive care"},
+  {"name":"Dr. Benjamin T. Foster, M.D.","title":"M.D.","department":"Cardiology","specialty":"Cardiology","area_of_focus":"Heart failure, Coronary artery disease, Arrhythmia"},
+  {"name":"Dr. Sophia L. Bryant, M.D.","title":"M.D.","department":"Neurology","specialty":"Neurology","area_of_focus":"Stroke management, Epilepsy, Parkinson's disease"},
+  {"name":"Dr. Anthony J. Alexander, M.D.","title":"M.D.","department":"Endocrinology","specialty":"Endocrinology","area_of_focus":"Diabetes, Thyroid disorders, Hormonal imbalance"},
+  {"name":"Dr. Olivia K. Russell, M.D.","title":"M.D.","department":"Gastroenterology","specialty":"Gastroenterology","area_of_focus":"Endoscopy, Colonoscopy, Liver disease"},
+  {"name":"Dr. Matthew P. Griffin, M.D.","title":"M.D.","department":"Dermatology","specialty":"Dermatology","area_of_focus":"Acne, Psoriasis, Mole removal"},
+  {"name":"Dr. Grace S. Diaz, M.D.","title":"M.D.","department":"Orthopedic Surgery","specialty":"Orthopedic Surgery","area_of_focus":"Joint replacement, Sports injuries, Arthroscopy"},
+  {"name":"Dr. Daniel R. Hayes, M.D.","title":"M.D.","department":"Pediatrics","specialty":"Pediatrics","area_of_focus":"Vaccinations, Pediatric asthma, Neonatal care"},
+  {"name":"Dr. Hannah M. Myers, M.D.","title":"M.D.","department":"Psychiatry","specialty":"Psychiatry","area_of_focus":"Anxiety, Depression, Bipolar disorder"},
+  {"name":"Dr. Ryan K. Ford, M.D.","title":"M.D.","department":"Internal Medicine","specialty":"Internal Medicine","area_of_focus":"Diabetes, Hypertension, Chronic disease management"},
+  {"name":"Dr. Victoria J. Hamilton, M.D.","title":"M.D.","department":"Cardiology","specialty":"Cardiology","area_of_focus":"Coronary artery disease, Heart failure, Arrhythmia"},
+  {"name":"Dr. Alexander P. Graham, M.D.","title":"M.D.","department":"Neurology","specialty":"Neurology","area_of_focus":"Stroke management, Epilepsy, Multiple sclerosis"},
+  {"name":"Dr. Abigail S. Sullivan, M.D.","title":"M.D.","department":"Endocrinology","specialty":"Endocrinology","area_of_focus":"Diabetes, Osteoporosis, Metabolic syndrome"},
+  {"name":"Dr. Nathan M. West, M.D.","title":"M.D.","department":"Gastroenterology","specialty":"Gastroenterology","area_of_focus":"Colonoscopy, Endoscopy, Liver disease"},
+  {"name":"Dr. Chloe R. Hunt, M.D.","title":"M.D.","department":"Dermatology","specialty":"Dermatology","area_of_focus":"Psoriasis, Acne, Eczema"},
+  {"name":"Dr. Samuel K. Stone, M.D.","title":"M.D.","department":"Orthopedic Surgery","specialty":"Orthopedic Surgery","area_of_focus":"Spine surgery, Fracture management, Joint replacement"},
+  {"name":"Dr. Emily M. Kennedy, M.D.","title":"M.D.","department":"Pediatrics","specialty":"Pediatrics","area_of_focus":"Well child visits, Vaccinations, Pediatric asthma"},
+  {"name":"Dr. Joshua K. Warren, M.D.","title":"M.D.","department":"Psychiatry","specialty":"Psychiatry","area_of_focus":"Depression, Anxiety, Psychotherapy"},
+  {"name":"Dr. Lauren P. Bishop, M.D.","title":"M.D.","department":"Internal Medicine","specialty":"Internal Medicine","area_of_focus":"Hypertension, Diabetes, Preventive care"},
+  {"name":"Dr. Benjamin R. Matthews, M.D.","title":"M.D.","department":"Cardiology","specialty":"Cardiology","area_of_focus":"Heart failure, Coronary artery disease, Arrhythmia"},
+  {"name":"Dr. Sophia M. Olson, M.D.","title":"M.D.","department":"Neurology","specialty":"Neurology","area_of_focus":"Stroke management, Epilepsy, Parkinson's disease"},
+  {"name":"Dr. Anthony P. Simmons, M.D.","title":"M.D.","department":"Endocrinology","specialty":"Endocrinology","area_of_focus":"Diabetes, Thyroid disorders, Hormonal imbalance"},
+  {"name":"Dr. Olivia R. Foster, M.D.","title":"M.D.","department":"Gastroenterology","specialty":"Gastroenterology","area_of_focus":"Endoscopy, Colonoscopy, Liver disease"},
+  {"name":"Dr. Matthew K. Webb, M.D.","title":"M.D.","department":"Dermatology","specialty":"Dermatology","area_of_focus":"Acne, Psoriasis, Mole removal"},
+  {"name":"Dr. Grace R. Hamilton, M.D.","title":"M.D.","department":"Orthopedic Surgery","specialty":"Orthopedic Surgery","area_of_focus":"Joint replacement, Sports injuries, Arthroscopy"},
+  {"name":"Dr. Daniel P. Grant, M.D.","title":"M.D.","department":"Pediatrics","specialty":"Pediatrics","area_of_focus":"Vaccinations, Pediatric asthma, Neonatal care"},
+  {"name":"Dr. Hannah J. Lawson, M.D.","title":"M.D.","department":"Psychiatry","specialty":"Psychiatry","area_of_focus":"Anxiety, Depression, Bipolar disorder"},
+  {"name":"Dr. Ryan P. Holt, M.D.","title":"M.D.","department":"Internal Medicine","specialty":"Internal Medicine","area_of_focus":"Diabetes, Hypertension, Chronic disease management"},
+  {"name":"Dr. Victoria R. Newman, M.D.","title":"M.D.","department":"Cardiology","specialty":"Cardiology","area_of_focus":"Coronary artery disease, Heart failure, Arrhythmia"},
+  {"name":"Dr. Alexander M. Ford, M.D.","title":"M.D.","department":"Neurology","specialty":"Neurology","area_of_focus":"Stroke management, Epilepsy, Multiple sclerosis"},
+  {"name":"Dr. Abigail J. Warren, M.D.","title":"M.D.","department":"Endocrinology","specialty":"Endocrinology","area_of_focus":"Diabetes, Osteoporosis, Metabolic syndrome"}
+]
